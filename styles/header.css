@@ -1,0 +1,37 @@
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2em;
+}
+
+.cabecalho__lista,
+.cabecalho__menu {
+  display: flex;
+  align-items: center;
+}
+
+.cabecalho__itens,
+.cabecalho__menu {
+  margin-left: 2em;
+}
+
+.cabecalho__itens__menu {
+  color: var(--grey500);
+  text-decoration: none;
+}
+
+.cabecalho__nav {
+  display: flex;
+}
+
+.cabecalho__nav__imagem {
+  margin-right: 4em;
+}
+
+.cabecalho__cadastro {
+  padding: 10px 18px;
+  color: var(--white);
+  background: var(--red);
+  border-radius: 8px;
+}

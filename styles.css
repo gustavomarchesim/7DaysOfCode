@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+@import url(styles/header.css);
+
+:root {
+  --bg: #ffffff;
+  --bgDepoimentos: rgba(196, 25, 25, 0.03);
+  --white: #ffffff;
+  --grey50: #f9fafb;
+  --grey400: #98a2b3;
+  --grey500: #667085;
+  --grey900: #101828;
+  --red: #8e2424;
+  --font-family: "Inter", sans-serif;
+}
+
+body {
+  padding: 0 2em;
+  font-family: var(--font-family);
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--grey500);
+  background: var(--bg);
+}
