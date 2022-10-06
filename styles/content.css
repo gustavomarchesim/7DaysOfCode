@@ -1,0 +1,30 @@
+.container{
+    padding:0 2em;
+}
+
+.container__content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 2em;
+    margin-top: 5em;
+    padding: 2em 17em;
+}
+
+.content__p1{
+    font-weight: 600;
+    color: var(--red);
+}
+
+.content__p2{
+    font-weight: 400;
+    color: var(--grey500);
+    font-size: 20px;
+}
+
+.content_titulo{
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--grey900);
+    letter-spacing: -0.02rem;
+}
