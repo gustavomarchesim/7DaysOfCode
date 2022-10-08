@@ -1,6 +1,8 @@
 .métricas{
     display: flex;
     padding: 0 2em;
+    height: 30vh;
+    margin-bottom: 3em;
 }
 
 .métricas__container{

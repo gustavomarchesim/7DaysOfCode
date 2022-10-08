@@ -2,10 +2,12 @@
 @import url(styles/header.css);
 @import url(styles/sobre.css);
 @import url(styles/métricas.css);
+@import url(styles/vagas.css);
 
 :root {
   --bg: #ffffff;
   --bgDepoimentos: rgba(196, 25, 25, 0.03);
+  --bgTexto:  rgba(142, 36, 36, 0.05);
   --white: #ffffff;
   --grey50: #f9fafb;
   --grey400: #98a2b3;

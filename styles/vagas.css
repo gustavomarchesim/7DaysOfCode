@@ -1,0 +1,24 @@
+.vagas{
+    text-align: center;
+}
+
+.vagas__span{
+    font-size: 14px;
+    background-color: var(--bgTexto);
+    color: var(--red);
+    padding: 0.5em;
+    border-radius: 16px;
+}
+
+.vagas__titulo{
+    font-size: 36px;
+    color: var(--grey900);
+    margin: 1em 0;
+}
+
+.vagas__paragrafo{
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--grey500);
+    margin-bottom: 2.5em;
+}
