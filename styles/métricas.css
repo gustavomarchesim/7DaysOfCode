@@ -1,0 +1,19 @@
+.métricas{
+    display: flex;
+}
+
+.métricas__span{
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--red);
+}
+
+.métricas__titulo{
+    font-size: 18px;
+    color: var(--grey900);
+}
+
+.métricas__paragrafo{
+    font-weight: 400;
+    color: var(--grey500);
+}

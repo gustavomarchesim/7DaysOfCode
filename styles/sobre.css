@@ -1,0 +1,20 @@
+.sobre{
+    text-align: center;
+}
+
+.sobre__span{
+    font-weight: 600;
+    color: var(--red);
+}
+
+.sobre__titulo{
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--grey900);
+}
+
+.sobre_paragrafo{
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--grey500);
+}

@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
 @import url(styles/header.css);
-@import url(styles/content.css);
+@import url(styles/sobre.css);
+@import url(styles/métricas.css);
 
 :root {
   --bg: #ffffff;
@@ -15,7 +16,7 @@
 }
 
 body {
-  padding: 0 2em;
+  padding: 0 4em;
   font-family: var(--font-family);
   font-size: 16px;
   font-weight: 500;
