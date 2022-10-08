@@ -1,5 +1,10 @@
 .métricas{
     display: flex;
+    padding: 0 2em;
+}
+
+.métricas__container{
+    padding: 0 1em;
 }
 
 .métricas__span{
@@ -11,6 +16,7 @@
 .métricas__titulo{
     font-size: 18px;
     color: var(--grey900);
+    margin: 1em 0;
 }
 
 .métricas__paragrafo{
