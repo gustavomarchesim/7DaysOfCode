@@ -22,3 +22,31 @@
     color: var(--grey500);
     margin-bottom: 2.5em;
 }
+
+.vagas__cargos{
+    padding: 0 2em;
+    margin: 0em 16em;
+}
+
+.cargos__titulo{
+    font-size: 20px;
+    color: var(--grey900);
+    margin: 2.5em 0;
+}
+
+.cargos__container{
+    border: 1px solid var(--grey200);
+    border-radius: 16px;
+    padding: 2em;
+    margin-bottom: 1em;
+}
+
+.cargo__nome{
+    font-size: 18px;
+    color: var(--grey900);
+    margin-bottom: 1.5em;
+}
+
+.cargo__descrição{
+    color: var(--grey500);
+}
