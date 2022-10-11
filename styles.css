@@ -3,6 +3,8 @@
 @import url(styles/sobre.css);
 @import url(styles/métricas.css);
 @import url(styles/vagas.css);
+@import url(styles/depoimentos.css);
+@import url(styles/rodape.css);
 
 :root {
   --bg: #ffffff;
@@ -19,10 +21,11 @@
 }
 
 body {
-  padding: 0 4em;
+  margin: 0 auto;
   font-family: var(--font-family);
   font-size: 16px;
   font-weight: 500;
+  line-height: 24px;
   color: var(--grey500);
   background: var(--bg);
 }

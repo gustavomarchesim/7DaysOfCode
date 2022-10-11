@@ -1,0 +1,38 @@
+.depoimentos{
+    background: var(--bgDepoimentos);
+    border-radius: 16px;
+    text-align: center;
+    margin: 5em 4em;
+}
+
+.depoimentos__container{
+    padding: 3.5em;
+}
+
+.dep__textos{
+    margin-bottom: 2em;
+}
+
+
+.dep__span{
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--red);
+}
+
+.dep__titulo{
+    font-size: 36px;
+    color: var(--grey900);
+    margin-top: 0.5em;
+}
+
+.dep__nome{
+    color: var(--grey900);
+    margin: 1em 0;
+}
+
+.dep__cargo{
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--grey500);
+}
