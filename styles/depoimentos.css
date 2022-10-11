@@ -23,6 +23,7 @@
 .dep__titulo{
     font-size: 36px;
     color: var(--grey900);
+    line-height: 44px;
     margin-top: 0.5em;
 }
 
